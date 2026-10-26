@@ -29,7 +29,3 @@ A personal learning project containing SQL exercises using MySQL and fundamental
 
 The goal of this project is to strengthen my problem-solving skills,
 understand relational databases, and practise mathematical concepts.
-
-## Author
-
-Iliazbek Tileshbaev
