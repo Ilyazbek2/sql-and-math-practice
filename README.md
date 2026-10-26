@@ -25,17 +25,6 @@ A personal learning project containing SQL exercises using MySQL and fundamental
 - SQL
 - Mathematics and calculus
 
-## Project Structure
-
-```text
-sql-and-math-practice/
-├── README.md
-├── sql/
-│   └── practice_queries.sql
-└── math/
-    └── implicit_differentiation.md
-```
-
 ## Purpose
 
 The goal of this project is to strengthen my problem-solving skills,
