@@ -36,9 +36,9 @@ WHERE time_out BETWEEN '1900-01-01 10:00:00'
 -- Check your actual table and column names first.
 -- Run only once to avoid adding another 30 minutes.
 
--- UPDATE Timepair
--- SET start_pair = ADDTIME(start_pair, '00:30:00'),
---     end_pair = ADDTIME(end_pair, '00:30:00');
+UPDATE Timepair
+SET start_pair = ADDTIME(start_pair, '00:30:00'),
+    end_pair = ADDTIME(end_pair, '00:30:00');
 
 
 -- 5. Delete family members whose names end in Quincey
