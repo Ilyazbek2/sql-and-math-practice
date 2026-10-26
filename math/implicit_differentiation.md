@@ -41,7 +41,7 @@ The chain rule is necessary because y depends on x:
 d/dx(y²) = 2y(dy/dx)
 
 The equation x² + y² = 25 describes a circle with radius 5.
-The derivative -x/y gives the slope of its tangent line
+The derivative -x/y gives the slope of its tangent line,
 where y is not zero.
 
 ## Key Concepts
