@@ -1,4 +1,4 @@
-# sql-and-math-practice
+
 # SQL & Math Practice
 
 A personal learning project containing SQL exercises using MySQL and fundamental calculus problems.
